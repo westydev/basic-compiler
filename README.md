@@ -1,2 +1,2 @@
 # basic-compiler
-Basic TypeScript Compiler.
+TypeScript Basic Compiler.
